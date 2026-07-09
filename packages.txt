@@ -1,0 +1,4 @@
+# packages.txt
+# This file is used to install system-level dependencies (Debian/Ubuntu packages) 
+# for your Streamlit app via apt-get on Streamlit Community Cloud.
+# For this project, no external system dependencies are required.

@@ -1,0 +1,20 @@
+Feature,Test_Type,p_value,Significant
+Senior Citizen,Chi-Square,0.0,YES
+Payment Method,Chi-Square,0.0,YES
+Paperless Billing,Chi-Square,0.0,YES
+Contract,Chi-Square,0.0,YES
+Streaming Movies,Chi-Square,0.0,YES
+Tenure Months,Mann-Whitney,0.0,YES
+Tech Support,Chi-Square,0.0,YES
+Streaming TV,Chi-Square,0.0,YES
+Online Backup,Chi-Square,0.0,YES
+Online Security,Chi-Square,0.0,YES
+Internet Service,Chi-Square,0.0,YES
+Dependents,Chi-Square,0.0,YES
+Partner,Chi-Square,0.0,YES
+Device Protection,Chi-Square,0.0,YES
+Monthly Charges,Mann-Whitney,0.0,YES
+Multiple Lines,Chi-Square,0.003464,YES
+Phone Service,Chi-Square,0.338783,NO
+Gender,Chi-Square,0.486579,NO
+Total Charges,Mann-Whitney,,NO

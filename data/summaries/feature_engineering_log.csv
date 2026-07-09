@@ -1,0 +1,6 @@
+Feature,Description,Dtype,Unique_Values,Null_Count
+Tenure_Group,Tenure binned into New/Early/Mid/Long lifecycle stages,category,4,0
+Num_Add_On_Services,Count of active add-on services (0–6),int64,7,0
+Has_Online_Services,Binary: 1 if customer has Online Security or Online Backup,int32,2,0
+Avg_Monthly_Spend,Total Charges divided by Tenure Months (spend intensity),float64,4579,0
+Is_Long_Term_Contract,Binary: 1 if contract is One year or Two year,int32,2,0

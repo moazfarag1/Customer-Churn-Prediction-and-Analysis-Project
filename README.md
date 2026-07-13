@@ -92,18 +92,12 @@ requirements.txt      # Python dependencies
 README.md             # This file
 ```
 
-## 10. Screenshots
-
-*(أضف لقطات شاشة لتطبيق Streamlit هنا لتوضيح واجهة المستخدم)*
-- **Prediction App:** `![App Screenshot](assets/plots/app_screenshot.png)`
-- **Dashboard:** `![Dashboard Screenshot](assets/plots/dashboard_screenshot.png)`
-
-## 11. Deployment
+## 10. Deployment
 
 This project is fully ready for deployment on **Streamlit Community Cloud**.
 For a comprehensive step-by-step guide on how to deploy this project, please refer to our [DEPLOYMENT_GUIDE.md](DEPLOYMENT_GUIDE.md).
 
-## 12. Team Structure
+## 11. Team Structure
 
 - **Moaz Farag:** EDA, preprocessing, cleaning
 - **Mohamed Mohy:** Feature engineering, encoding, statistical analysis
@@ -111,7 +105,7 @@ For a comprehensive step-by-step guide on how to deploy this project, please ref
 - **Mohamed Ali:** XGBoost, tuning, final model selection
 - **Ali Mahmoud:** Streamlit deployment, GitHub coordination, final integration
 
-## 13. License
+## 12. License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
